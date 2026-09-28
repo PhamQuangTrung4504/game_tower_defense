@@ -1,12 +1,12 @@
 {
-    "name": "game_tower_defense",
-    "short_name": "game_tower_defense",
+    "name": "Plants vs Monsters: Tower Defense",
+    "short_name": "Plants vs Monsters",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "game tower defense",
-    "orientation": "portrait-primary",
+    "background_color": "#0d1117",
+    "theme_color": "#00E5FF",
+    "description": "2D Pixel Tactical Tower Defense Game with 8 Plants, 10 Monsters and 4 Ultimate Skills.",
+    "orientation": "landscape",
     "prefer_related_applications": false,
     "icons": [
         {
